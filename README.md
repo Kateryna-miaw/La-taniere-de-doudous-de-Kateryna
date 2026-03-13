@@ -1,6 +1,6 @@
 # La Tanière des Doudous de Kateryna
 
-Une simulation comportementale construite avec Streamlit. Le joueur gère trois peluches, Zaïtchyk (un lapin), Jean-Jacques (un ours) et Frédéric (un cochon), sur 10 jours. Ce sont les vraies peluches de Kateryna, celles qui traînent sur son lit depuis toujours. L'objectif est d'atteindre 100 % d'affection avec chacune d'entre elles en choisissant les bonnes actions et, surtout, les bons *mots*.
+Une simulation comportementale construite avec Streamlit. Le joueur gère trois peluches, Zaïtchyk (un lièvre), Jean-Jacques (un ours) et Frédéric (un cochon), sur 10 jours. Ce sont les vraies peluches de Kateryna, celles qui traînent sur son lit depuis toujours. L'objectif est d'atteindre 100 % d'affection avec chacune d'entre elles en choisissant les bonnes actions et, surtout, les bons *mots*.
 
 C'est à la fois un jeu, une expérience de linguistique, et un outil d'analyse de données.
 
