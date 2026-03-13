@@ -4,6 +4,9 @@ Une simulation comportementale construite avec Streamlit. Le joueur gère trois 
 
 C'est à la fois un jeu, une expérience de linguistique, et un outil d'analyse de données.
 
+Vous pouvez y jouer sur : 
+https://la-taniere-de-doudous-de-kateryna-rhyjcfq3z5ptu6fgn6vy3u.streamlit.app
+
 ---
 
 ## De quoi il s'agit
